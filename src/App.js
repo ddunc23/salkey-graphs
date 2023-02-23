@@ -1,23 +1,25 @@
-import logo from './logo.svg';
-import './App.css';
+import { DisplayGraph } from "./components/sigmaComponents";
+import { useState } from "react";
+
+
+const InfoPanel = (props) => {
+  return (
+    <div className="w-1/3 overflow-scroll bg-white">
+      <p>{props.name ? props.name : ''}</p>
+      <p>{props.bio ? props.bio : ''}</p>
+    </div>
+  )
+}
+
 
 function App() {
+
+  const [nodeProps, setNodeProps] = useState(null);
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="w-screen h-screen flex justify-center overflow-hidden">
+      <DisplayGraph setNodeProps={setNodeProps}/>
+      <InfoPanel name={nodeProps ? nodeProps.name : null} bio={nodeProps ? nodeProps.bio : null}/>
     </div>
   );
 }
