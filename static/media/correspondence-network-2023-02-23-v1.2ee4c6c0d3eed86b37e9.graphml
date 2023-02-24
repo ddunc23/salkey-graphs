@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="r" attr.type="int" for="node" id="r"/>
+    <key attr.name="g" attr.type="int" for="node" id="g"/>
+    <key attr.name="b" attr.type="int" for="node" id="b"/>
+    <key attr.name="x" attr.type="float" for="node" id="x"/>
+    <key attr.name="y" attr.type="float" for="node" id="y"/>
+    <key attr.name="size" attr.type="float" for="node" id="size"/>
+    <key attr.name="name" attr.type="string" for="node" id="0"/>
+    <key attr.name="bio" attr.type="string" for="node" id="1"/>
+    <key attr.name="shelfmark" attr.type="string" for="node" id="2"/>
+    <key attr.name="edge_type" attr.type="string" for="edge" id="3"/>
+    <graph edgedefault="undirected">
+        <node id="f3572dc7-d514-31d2-89ae-eb4baf79e1e7">
+            <data key="label">f3572dc7-d514-31d2-89ae-eb4baf79e1e7</data>
+            <data key="0">Michael Anthony</data>
+            <data key="1">Born in 1930 in Trinidad, Michael Anthony came to Britain in 1954. Prior to leaving the Caribbean, Anthony was encouraged in his ambitions to become a writer by having some poems published by the Trinidad Guardian, in the early 1950s. When he arrived in London, he approached Caribbean Voices where he was invited to meet the newly appointed editor, V S Naipaul, who later accepted some of his work.  Through Caribbean Voices, Anthony and Salkey became close friends. Anthony later became sub editor at Reuters, work he pursued alongside writing. Anthony published several novels, in the early 1960s. He continued to write, honing and developing his artistic voice, and contributed to early discussions both at CAM meetings and conferences. In 1979 he was awarded the Hummingbird Medal (Gold) for his contributions to Literature, and also received an honorary doctorate from the University of the West Indies (UWI) in 2003.</data>
+            <data key="2">Add MS 89377/7/11</data>
+            <data key="size">14.285715</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-0.72079325</data>
+            <data key="y">-132.71295</data>
+        </node>
+        <node id="0d190e55-5770-3c60-bbf2-e19a1f72ef14">
+            <data key="label">0d190e55-5770-3c60-bbf2-e19a1f72ef14</data>
+            <data key="0">George Lamming</data>
+            <data key="1">Lamming was born in 1927 in Barbados. Coincidentally and, perhaps fortuitously, travelling on the same boat as Selvon, Lamming left Barbados for Britain in 1950. Although, initially relying upon earnings from factory work, he achieved success in 1951 at the BBC Colonial Service. The BBC's Caribbean Voices radio series also broadcast some of his writing and it was through this connection that he met, and became friends with, Andrew Salkey. Lamming’s literary career was very successful. His first book, In the Castle of My Skin was published in London in 1953 and won the Somerset Maugham award. Lamming continued to write, but also became an academic in 1967 and served as a writer-in-residence and lecturer at the University of the West Indies, Mona, and later at a variety of universities in the United States of America including Brown University, Cornell University, and Duke University. He published six novels as well as his 1960 collection of essays, The Pleasures of Exile.</data>
+            <data key="2">Add MS 89377/7/40</data>
+            <data key="size">30.357141</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">50.287216</data>
+            <data key="y">182.94963</data>
+        </node>
+        <node id="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5">
+            <data key="label">ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5</data>
+            <data key="0">John La Rose</data>
+            <data key="1">John La Rose was born Anthony John La Rose in Trinidad in 1927. His experiences afforded him a diverse and broad education in both society and culture. A poet, John La Rose had a notable breadth of knowledge which seems to have made an impression on many with Linton Kwesi Johnson, for whom he and Sarah White acted as mentors, describing him as: ‘a man of great erudition whose generosity of spirit and clarity of vision and sincerity inspired people like me.’  Such ‘erudition’ encompassed Spanish and French literature, Amerindian folklore and tradition, and an interest and compendious knowledge of music, especially Calypso. 
+As a child growing up in Trinidad, La Rose won a scholarship to St Mary’s, the premier Catholic secondary school in Port of Spain, where he later taught Spanish. His involvement with Caribbean politics stems from the 1940s when he helped found the Workers Freedom Movement in Trinidad and edited its journal Freedom. He was general secretary of the West Indian Independence Party and began a lifelong connection with the radical Oilfield Workers Trade Union. In Britain he launched into cultural activism. Prior to the foundation of the Caribbean Artists Movement which La Rose co –founded with Kamau Brathwaite and Andrew Salkey, John La Rose had already started New Beacon Books with his partner, Sarah White, in 1966, the first specialist publisher of Caribbean books, with its specific intention of publishing undervalued and overlooked work particularly from the Caribbean. The website for New Beacon Books says that it was ‘never just a book business,’ asserting its central place within numerous: ‘ground-breaking political and social projects’ which included CECWA campaign against putting black children in Educationally Sub Normal (ESN) schools, The International Book Fair of Radial Black and Third World Books (1982-1995), the Black Parents Movement and Black Youth Movement, who campaigned against police racist brutality and the New Cross Massacre Action Committee (1981 ). Together with the George Padmore Institute (GPI) its declared objective is partly as an archive of the struggle of people of African, Caribbean and Asian descent in Britain, it also serves as an educational and cultural centre. La Rose’s creative strengths extended to making a film about the Mangrove Nine. La Rose was honoured in a documentary about his life, Dream to Change the World was directed by filmmaker Horace Ove.
+</data>
+            <data key="2">Add MS 89377/7/41</data>
+            <data key="size">23.92857</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-36.074284</data>
+            <data key="y">-102.46367</data>
+        </node>
+        <node id="e864431e-9afb-3926-ad3f-b3fccc6f1322">
+            <data key="label">e864431e-9afb-3926-ad3f-b3fccc6f1322</data>
+            <data key="0">Errol Hill</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">127.88335</data>
+            <data key="y">-413.77216</data>
+        </node>
+        <node id="2e49bd5f-b9fb-3a8c-a405-4da96f9312d1">
+            <data key="label">2e49bd5f-b9fb-3a8c-a405-4da96f9312d1</data>
+            <data key="0">E R Braithwaite</data>
+            <data key="1">Braithwaite was born in Georgetown, Guyana in 1912. His parents  both attended Oxford University and Braithwaite was encouraged to value education throughout his formative years.  He attended colleges in Guyana and New York before joining the Royal Air Force as a pilot, which he later described as a time in his life when he was free of any sense of racial discrimination.  Following the Second World War, Braithwaite achieved a Masters degree in physics from Cambridge University, becoming a teacher when he could not find work within his chosen field of science. His novel, To Sir, With Love,was written in 1959 and based on his experiences as a teacher in the East End of London. It became a prominent film. Braithwaite also worked as a social worker and became the first Permanent Representative of Guyana to the United Nations from 1967 to 1969. He later became an academic, securing positions in a number of prominent American Universities including a position at Howard University. He died aged 104. </data>
+            <data key="2">Add MS 89377/7/8</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-511.23047</data>
+            <data key="y">246.64333</data>
+        </node>
+        <node id="1f59c247-de95-3efe-9406-60e82e25e7e0">
+            <data key="label">1f59c247-de95-3efe-9406-60e82e25e7e0</data>
+            <data key="0">Edward Kamau Brathwaite</data>
+            <data key="1">Edward Kamau Brathwaite was born in 1927 in Bridgetown, Barbados. In 1949 he won the Barbados Island Scholarship to attend the University of Cambridge, where he studied History. It was during this period that Brathwaite began his association with the BBC's Caribbean Voices programme in London. Following his degree in 1950s, Brathwaite spent several years in Africa teaching, where he was also appointed to the educational service of Ghana, ‘the place where (he) should have gone all along.’    From 1962 he took up teaching posts for the University of the West Indies. It was here that he began writing Rights of Passage, a poem which was intended to be spoken, and also published poems in the Caribbean literary journal, Bim.  In 1965, Brathwaite returned to Britain where he began a PhD at the University of Sussex in 1965. It was during this period in Britain that the Caribbean Artists movement, or CAM, was founded. Brathwaite remained profoundly interested in folk culture and language, and was instrumental in elevating Jamaican Dialect to ‘Nation Language’, which he described as: ‘language which is influenced very strongly by the African model.’ Brathwaite later returned to the Caribbean where he taught at the University of West Indies and subsequently at New York University. He formally changed his name to Kamau in a ceremony in which the prominent writer, and early CAM contributor, Ngugi wa Thiong’o’s mother presided.  Brathwaite received numerous accolades and awards for his work which continued to straddle history, literature, language and culture, before his death in 2020. </data>
+            <data key="2">Add MS 89377/7/7</data>
+            <data key="size">29.285713</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">136.23206</data>
+            <data key="y">8.01466</data>
+        </node>
+        <node id="0f10318c-631f-3c8e-b7ef-5b36360c875d">
+            <data key="label">0f10318c-631f-3c8e-b7ef-5b36360c875d</data>
+            <data key="0">Derek Walcott</data>
+            <data key="size">14.285715</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">119.457855</data>
+            <data key="y">-39.20487</data>
+        </node>
+        <node id="d992aa22-f632-3f87-a09a-9d45d2a98215">
+            <data key="label">d992aa22-f632-3f87-a09a-9d45d2a98215</data>
+            <data key="0">Vidia Naipaul</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">259.4917</data>
+            <data key="y">-301.98605</data>
+        </node>
+        <node id="55a3ff05-3acf-3644-b8cb-75a4e2294630">
+            <data key="label">55a3ff05-3acf-3644-b8cb-75a4e2294630</data>
+            <data key="0">CLR James</data>
+            <data key="1">Cyril Lionel Robert James, who was also known as Nello, was born in Trinidad in 1901. His father was a school teacher and he has attributed this in part to his sense of moral responsibility which encompassed a determination to study the ‘best that there was in literature’ with a focus on transmitting it to the people. 
+James left for Lancashire in 1932 at the invitation of his friend Learie Constantine, a West Indian cricketer who sought his help with writing his autobiography. During this time James took a job as cricket correspondent with the Manchester Guardian. In 1933 he moved to London, taking his first full-length non-fiction work, founded on interviews with the Trinidad labour leader Arthur Andrew Cipriani. It was published with financial assistance from Constantine in the same year. James was an early campaigner for the independence of the West Indies which he started whilst still in Trinidad.
+James was both multifaceted and a prominent and a pioneering voice in a variety of fields. He was a Marxist, journalist and historian and prominent as a voice in postcolonial literature . He was also a champion of Pan-Africanism. 
+A tireless political activist, James is the author of World Revolution which outlines the history of the Communist International. In 1938 he wrote his very influential The Black Jacobins, which explored the Haitian revolution of 1791 to 1804, with and particularly the role of Toussaint L’Ouverture. His Minty Alley  was the first novel by a black West Indian to be published in Britain.  His 1963 Beyond a Boundary, is reputed as a leading book about cricket. 
+James was interned at Ellis Island for a year in the early 1950s for his allegedly subversive activities and, on release, was expelled from USA. CLR James’s connection to Salkey stems from early 1960s. They were good friends and Salkey was part of a group of writers who wrote a formal letter complaining about the conditions that CLR James was held under when he was detained in Trinidad in 1965. 
+Prior to the formation of the Caribbean Artists Movement James was part of a less formal group of writers who met frequently at Salkey’s home, an initiative which he describes as something in which Salkey was ‘vitally interested’ and through which he became acquainted with George Lamming. Wilson Harris and Vidia Naipaul. James was also a contributor to many of the discussions that related to CAM, speaking at one of the first of the public sessions in July 1967 and was involved in many of the talks and initiatives which arose out of some of New Beacon’s ventures. 
+</data>
+            <data key="size">16.428572</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-101.88609</data>
+            <data key="y">-31.603157</data>
+        </node>
+        <node id="0c3364e6-1aff-3454-9be0-9779dc420b63">
+            <data key="label">0c3364e6-1aff-3454-9be0-9779dc420b63</data>
+            <data key="0">Edward Lucie-Smith</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">309.5629</data>
+            <data key="y">342.72693</data>
+        </node>
+        <node id="867a9adb-973f-3370-8a3d-a5e12f038734">
+            <data key="label">867a9adb-973f-3370-8a3d-a5e12f038734</data>
+            <data key="0">Edward Baugh</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">515.3332</data>
+            <data key="y">-105.77556</data>
+        </node>
+        <node id="1634d992-411d-38a5-954b-f61229371be8">
+            <data key="label">1634d992-411d-38a5-954b-f61229371be8</data>
+            <data key="0">Wilson Harris</data>
+            <data key="1">Wilson Harris was born in 1921, in Guyana. He studied in Georgetown, and became a government surveyor, before becoming a lecturer and writer. Between 1945 and 1961, Harris was a regular contributor of stories, poems and essays to Kyk-over-Al literary magazine and was part of a group of Guyanese intellectuals which included Martin Carter, Jan Carew, whose sister he was married to, and with whom he had four children, and Ivan Van Sertima. Harris came to Britain in 1959, where he rapidly achieved success with the publication of his Palace of the Peacock, in 1960.  Whilst not a ‘founding member’ of CAM, Wilson Harris was invited to be one of the five writers and critics who formed the panel when CAM first went ‘public’ in March 1967.  He was also the first person to whom John La Rose put forward the idea for the Movement, La Rose recalling how, in the early 1960s he perceived Britain as: ‘a kind of Mecca for the Caribbean writer. So, I thought that there was no organisation, there was no means of interaction which was taking place among those writers…And the only one person I spoke to about this was Wilson Harris, at an earlier stage.’  It is also perhaps illustrative of the power of the connections between many of the founding members of CAM that Andrew Salkey played a crucial role in Harris’s writing success after being asked to read Palace of the Peacock, for Faber’s, after a line of six readers had rejected it for its ‘impenetrability’. Harris was awarded honorary doctorates by the University of the West Indies; the University of Liège (2001). He also won the Guyana Prize for Literature twice and was created a Knight Bachelor in June 2010. </data>
+            <data key="size">16.428572</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">4.4881854</data>
+            <data key="y">-30.351757</data>
+        </node>
+        <node id="cc2036ac-1bca-34d0-b1e7-fe7466d9b075">
+            <data key="label">cc2036ac-1bca-34d0-b1e7-fe7466d9b075</data>
+            <data key="0">Louis James</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">522.6392</data>
+            <data key="y">14.126815</data>
+        </node>
+        <node id="122d2298-a696-3400-b078-5ccd9526a4aa">
+            <data key="label">122d2298-a696-3400-b078-5ccd9526a4aa</data>
+            <data key="0">James Ngugi</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">198.22774</data>
+            <data key="y">268.64728</data>
+        </node>
+        <node id="94f1f442-a074-3596-9b51-e250d3057ca1">
+            <data key="label">94f1f442-a074-3596-9b51-e250d3057ca1</data>
+            <data key="0">Jessica Huntley</data>
+            <data key="1">Eric and Jessica Huntley - Jessica (born in 1927) and Eric (born in 1929) in Guyana came to Britain in 1957 and 1958 respectively, the primary motivation for which was to seek work.  Close friends with John La Rose, with whom they were connected through their political activism, they stayed at his home on arrival in London. 
+Eric and Jessica Huntley were instrumental in the foundation of the first national government of Guyana along with its leaders.  Jessica Huntley also co-founded the Women's Progressive Organization which sought to focus on women's rights as part of the People's Progressive Party's (PPP) independence struggle of which she was appointed the organizing secretary. 
+In London, they founded publishing company, Bogle L’Ouverture, named for the two famous Caribbean revolutionaries. Salkey is credited as instrumental to the choice of the name. The Huntleys also founded a bookshop in Ealing in London which was dedicated to the promotion of Black writing. In 1974, the Bogle-L'Ouverture Bookshop opened in West Ealing which served not only to stock books about the Caribbean, Africa and the Third World, especially from publishers in the Caribbean but as a cultural and educational hub for the community. Bogle-L'Ouverture Publications (BLP) was a direct response to the 1968 banning from Jamaica of historian and scholar Walter Rodney, who was then teaching at the University of the West Indies . In London a group which included the Huntleys and Andrew Salkey challenged the controversial banning by publishing and distributing Rodney's speeches and lectures which were published in 1969 as BLP's first title, The Groundings with My Brothers. 
+The Huntleys founded or participated in many campaigns within the community which included The Black Education Movement, the fight against banding, one of its core objectives; The Black Parents Movement (BPM) in 1975 and The International Book Fair of Radical Black and Third World Books. 
+The warmth of the correspondence with Andrew Salkey illustrates the strength of their friendship which continued until his death.  The correspondence alludes to the unwavering support which Salkey showed for the Huntleys and their work and the love and regard with which Salkey was obviously held by not only Jessica and Eric Huntley but their daughter, Accabre, who writes several of the letters. 
+</data>
+            <data key="size">15.357143</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-165.2121</data>
+            <data key="y">-206.92082</data>
+        </node>
+        <node id="744d30bb-cba6-3c68-9712-d8b32b4b607a">
+            <data key="label">744d30bb-cba6-3c68-9712-d8b32b4b607a</data>
+            <data key="0">Frank Collymore</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">313.24637</data>
+            <data key="y">-253.9665</data>
+        </node>
+        <node id="86bcd814-3e23-36b3-bd3e-82942e6eabe7">
+            <data key="label">86bcd814-3e23-36b3-bd3e-82942e6eabe7</data>
+            <data key="0">Doris Brathwaite</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-549.78357</data>
+            <data key="y">-149.02704</data>
+        </node>
+        <node id="e90f3347-f018-31ec-ae96-3a52dc388e9c">
+            <data key="label">e90f3347-f018-31ec-ae96-3a52dc388e9c</data>
+            <data key="0">Ismael Reed</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">175.54782</data>
+            <data key="y">373.5466</data>
+        </node>
+        <node id="8053ccd1-1cbc-3430-846e-e00aa3fb5d06">
+            <data key="label">8053ccd1-1cbc-3430-846e-e00aa3fb5d06</data>
+            <data key="0">Aubrey Williams</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-197.7448</data>
+            <data key="y">-154.85667</data>
+        </node>
+        <node id="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="label">3e14e337-c147-3cf4-8fda-d98baca822ed</data>
+            <data key="0">John Figueroa</data>
+            <data key="1">Born in 1920 in Jamaica, John Figueroa was primarily a teacher and a poet. Figueroa won a scholarship to attend Holy Cross College, Massachusetts, graduating in 1942. In 1946 he attended London University on a British Council fellowship to study for both a teaching diploma and a master's degree in education. Figueroa subsequently taught in schools in London, and spent six years as an English and Philosophy lecturer at the Institute of Education. He also contributed criticism, stories and poetry to the BBC's Caribbean Voices radio programme, where Figueroa became good friends with Andrew Salkey and was closely associated with Caribbean Voices until his return to Jamaica in 1953 to take up the post of Senior Lecturer of Education in 1953 at UCWI.  Figueroa was later appointed to a number of academic posts including a position University of Puerto Rica and, latterly, University of Jos, Nigeria. In the 1980s he moved to the UK, where he worked for the Open University and was a Fellow at the Centre for Caribbean Studies, University of Warwick. Figueroa also edited the pioneering two-volume anthology Caribbean Voices and was the first general editor of the Heinemann Caribbean Writers Series. </data>
+            <data key="2">Add MS 89377/7/25</data>
+            <data key="size">23.92857</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-27.227718</data>
+            <data key="y">121.026184</data>
+        </node>
+        <node id="701f9480-037c-305e-a30d-a7eaf2295ae6">
+            <data key="label">701f9480-037c-305e-a30d-a7eaf2295ae6</data>
+            <data key="0">John Hearne</data>
+            <data key="size">13.214286</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">60.29635</data>
+            <data key="y">84.07082</data>
+        </node>
+        <node id="e8021aa7-74ce-31a2-b994-d5274bca339d">
+            <data key="label">e8021aa7-74ce-31a2-b994-d5274bca339d</data>
+            <data key="0">Edgar Mittelholzer</data>
+            <data key="1">Edgar Mittelholzer was born in 1909 in Guyana. He is credited as being the earliest novelist from the West Indian region to establish himself in Europe and is deemed to be the first professional novelist to come out of the English-speaking Caribbean. In 1948, Mittelholzer moved to London. His first, Trinidad-set novel. A Morning at the Office, was published by Hogarth Press two years later with a string of novels, Shadows Move Among Them, and the first of a trilogy, Children of Kaywana, published in the next few years. Mittelholzer moved to Montreal in 1952 when he was awarded a year-long Guggenheim Fellowship but subsequently moved to Barbados, remaining until May, 1956, before he returned to England. Mittelholzer replaced Naipaul as editor of Caribbean Voices in 1956, then a successful writer. It was through Caribbean Voices that he became good friends with Andrew Salkey who he often met in London even after Mittelholzer had moved to Surrey. Mittelholzer published a number of books before he tragically died of suicide in England in 1965.</data>
+            <data key="2">Add MS 89377/7/45</data>
+            <data key="size">13.214286</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-201.88919</data>
+            <data key="y">315.52353</data>
+        </node>
+        <node id="3e13cdc7-3556-3487-b101-dba00f4bf2e4">
+            <data key="label">3e13cdc7-3556-3487-b101-dba00f4bf2e4</data>
+            <data key="0">Henry Swanzy</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">200.43642</data>
+            <data key="y">-60.552494</data>
+        </node>
+        <node id="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="label">5e0fa2eb-f903-390c-94a9-e6f752ef78c1</data>
+            <data key="0">Sam Selvon</data>
+            <data key="1">Sam Selvon was born in 1923 in Trinidad. One of seven children, he left school at the age of 15. Initially Selvon worked as a wireless operator for the Royal Naval Reserve from 1940 to 1945. However, after the Second World War, he worked for five years in Port of Spain at the Trinidad Guardian both as a reporter and for its literary page. In 1950 Selvon travelled to London, to explore his ambitions of becoming a writer,  coincidentally travelling on the same boat as George Lamming. Selvon initially supported himself through a series of jobs, latterly working as a clerk for the Indian Embassy. During this period he achieved some success in his writing through publications which included the London Magazine, and New Statesman and producing two television scripts for the BBC, Anansi the Spiderman, and Home Sweet India. Selvon’s The Lonely Londoners, was published in 1956, which Caryl Phillips has described as: ‘the quintessential novel about migration.’ Selvon’s experimentation with language and place, utilising the sounds and music of his childhood resulted in the creation of a unique ‘voice’. Selvon himself proved somewhat itinerant, taking up jobs which included being a fellow in creative writing at the University of Dundee, where he worked between 1975 and 1977 before he moved to Canada where he was appointed to a variety of academic posts.  Throughout his lifetime, Selvon published numerous novels and was awarded an honorary doctorate from Warwick University and an honorary DLitt by the University of the West Indies. He was also awarded the Trinidad &amp; Tobago Hummingbird Medal Gold for Literature. Through the BBC Selvon became friends with Andrew Salkey, a friendship which was sustained through their frequent correspondence.  </data>
+            <data key="2">Add MS 89377/7/54</data>
+            <data key="size">32.5</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">64.76932</data>
+            <data key="y">-255.29112</data>
+        </node>
+        <node id="07a8084b-e264-3de3-b758-636feead295e">
+            <data key="label">07a8084b-e264-3de3-b758-636feead295e</data>
+            <data key="0">Dorothy Figueroa</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-52.072212</data>
+            <data key="y">88.50443</data>
+        </node>
+        <node id="cf9e58ea-ee7c-3d2b-a50b-f3373eff4ed3">
+            <data key="label">cf9e58ea-ee7c-3d2b-a50b-f3373eff4ed3</data>
+            <data key="0">Stuart Hall</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-137.07388</data>
+            <data key="y">497.54593</data>
+        </node>
+        <node id="b15bb396-9338-3937-b1ce-532b1bf8aacd">
+            <data key="label">b15bb396-9338-3937-b1ce-532b1bf8aacd</data>
+            <data key="0">Sarah White</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-371.4379</data>
+            <data key="y">-234.37022</data>
+        </node>
+        <node id="9dd56756-96d5-33a0-a50c-7b7ea6621e53">
+            <data key="label">9dd56756-96d5-33a0-a50c-7b7ea6621e53</data>
+            <data key="0">Gordon Rohlehr</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">300.10443</data>
+            <data key="y">-71.9589</data>
+        </node>
+        <node id="76c2a574-5e68-35d6-aa1d-d21f9ff79922">
+            <data key="label">76c2a574-5e68-35d6-aa1d-d21f9ff79922</data>
+            <data key="0">Eric Huntley</data>
+            <data key="size">13.214286</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-105.37018</data>
+            <data key="y">-190.66203</data>
+        </node>
+        <node id="79ad4530-2e0e-341f-9824-7dbf30003057">
+            <data key="label">79ad4530-2e0e-341f-9824-7dbf30003057</data>
+            <data key="0">Earl Lovelace</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-16.355064</data>
+            <data key="y">-412.78806</data>
+        </node>
+        <node id="441499f5-e7c3-3963-94f8-d2cd44ca893c">
+            <data key="label">441499f5-e7c3-3963-94f8-d2cd44ca893c</data>
+            <data key="0">Ken Ramchand</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-323.77213</data>
+            <data key="y">-67.03256</data>
+        </node>
+        <node id="ad26e23a-db53-3252-a84d-959a2caf04da">
+            <data key="label">ad26e23a-db53-3252-a84d-959a2caf04da</data>
+            <data key="0">Anne Walmsley</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-213.07753</data>
+            <data key="y">-396.36414</data>
+        </node>
+        <node id="3e556a20-d7dc-3303-963d-1a39ef441ef3">
+            <data key="label">3e556a20-d7dc-3303-963d-1a39ef441ef3</data>
+            <data key="0">Ismith Khan</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">305.44434</data>
+            <data key="y">-565.8772</data>
+        </node>
+        <node id="e8844ea7-acfa-3bd7-b2fd-6938ba707d00">
+            <data key="label">e8844ea7-acfa-3bd7-b2fd-6938ba707d00</data>
+            <data key="0">Eddie Mittelholzer</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">155.23262</data>
+            <data key="y">-613.02637</data>
+        </node>
+        <node id="0c77e8f2-ecf2-304c-b823-2cfa2a3cb9f6">
+            <data key="label">0c77e8f2-ecf2-304c-b823-2cfa2a3cb9f6</data>
+            <data key="0">Horace Ove</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">86.755745</data>
+            <data key="y">-653.786</data>
+        </node>
+        <node id="06bf86f1-1fd4-34e2-8848-876e366c104c">
+            <data key="label">06bf86f1-1fd4-34e2-8848-876e366c104c</data>
+            <data key="0">Althea</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">10.036932</data>
+            <data key="y">-641.9418</data>
+        </node>
+        <node id="4cc795df-9c85-3706-bdc3-57bb2404d115">
+            <data key="label">4cc795df-9c85-3706-bdc3-57bb2404d115</data>
+            <data key="0">Lloyd Brown</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">227.88974</data>
+            <data key="y">-625.9124</data>
+        </node>
+        <node id="160b2d68-f68e-30c5-a606-2a238c624a7a">
+            <data key="label">160b2d68-f68e-30c5-a606-2a238c624a7a</data>
+            <data key="0">George Macbeth</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-81.60323</data>
+            <data key="y">-621.2023</data>
+        </node>
+        <node id="1506ea8f-1b03-32f8-a8a0-2ea42a46d34a">
+            <data key="label">1506ea8f-1b03-32f8-a8a0-2ea42a46d34a</data>
+            <data key="0">Austin Clarke</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">354.44315</data>
+            <data key="y">-82.2841</data>
+        </node>
+        <node id="c5fdc53a-eef6-37ee-9ab5-bf8691fb3c7e">
+            <data key="label">c5fdc53a-eef6-37ee-9ab5-bf8691fb3c7e</data>
+            <data key="0">Beryl Gilroy</data>
+            <data key="1">Born in 1924 in Guyana, Beryl Gilroy was brought up by her maternal grandmother. An unorthodox education also encompassed oral and folk traditions,as well as local medicine taught to her by her Grandmother, who Gilroy later described as a ‘woman of elemental energies’. Despite a limited early education until the age of 12, Gilroy graduated from Georgetown’s teacher training college, with a first-class diploma in 1945, travelling to London in 1951. Gilroy overcame numerous obstacles to become the first black head teacher of a school in London in 1969. Gilroy’s Black Teacher, the autobiographical account of her teaching experiences, was published in 1976. In the early 1970s she also wrote for the pioneering, more inclusive, school reader series, Nippers (1970–75). Gilroy’s desire for education led to a doctorate in ethno-psychology and in the 1980s and early 1990s Gilroy published a string of novels which included: Frangipani House in 1986, Boy Sandwich in 1989 and Steadman and Joanna: A Love in Bondage in 1991. </data>
+            <data key="2">MS 89377/7/11</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-590.216</data>
+            <data key="y">189.83061</data>
+        </node>
+        <node id="fe2174de-3253-364a-8645-54a04a81c0d4">
+            <data key="label">fe2174de-3253-364a-8645-54a04a81c0d4</data>
+            <data key="0">Louise Bennett</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">21.347271</data>
+            <data key="y">495.09073</data>
+        </node>
+        <node id="0fedb384-294f-3e7e-af79-00262e944a45">
+            <data key="label">0fedb384-294f-3e7e-af79-00262e944a45</data>
+            <data key="0">Claudia Jones</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">296.2328</data>
+            <data key="y">483.72882</data>
+        </node>
+        <node id="6220fdbb-5c5d-3abd-8d09-792dc6301662">
+            <data key="label">6220fdbb-5c5d-3abd-8d09-792dc6301662</data>
+            <data key="0">Rex Nettleford</data>
+            <data key="1">Born in 1933 in Jamaica, Rex Nettleford attended the University of West Indies where he attained a degree in History. He was a Rhodes Scholar, achieving a postgraduate degree in Politics at Oxford University, and subsequently returning to Jamaica to teach at University of West Indies. Nettleford was a renowned academic but was also interested in the Performing Arts. Together with Eddy Thomas, he founded the National Dance Theatre Company of Jamaica, which did much to incorporate traditional Jamaican dance and music into ballet. Nettleford wrote a number of non-fiction works, many of which explored his wide-ranging interests, particularly in Jamaican, and wider Caribbean, culture including the Rastafari movement. Nettleford’s interest in the arts, extended to dialectal language, or ‘Nation Language’ as it was termed by EK Brathwaite. He was a particular advocate for Louise Bennett’s poetry, writing the foreword to her Jamaican Labrish.  </data>
+            <data key="2">MS 89377/7/72</data>
+            <data key="size">14.285715</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-57.92964</data>
+            <data key="y">295.44006</data>
+        </node>
+        <node id="e5a3f21f-050e-33b2-b930-75738b28195d">
+            <data key="label">e5a3f21f-050e-33b2-b930-75738b28195d</data>
+            <data key="0">Pearl Connor</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">104.78708</data>
+            <data key="y">582.6229</data>
+        </node>
+        <node id="4783caf1-3bc9-303a-b986-f0696a77e38d">
+            <data key="label">4783caf1-3bc9-303a-b986-f0696a77e38d</data>
+            <data key="0">Orlando Patterson</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">294.21878</data>
+            <data key="y">272.1764</data>
+        </node>
+        <node id="ed0f88be-c0e5-359c-98fc-3910925bc00f">
+            <data key="label">ed0f88be-c0e5-359c-98fc-3910925bc00f</data>
+            <data key="0">Neville Dawes</data>
+            <data key="1">Neville Dawes was born in Nigeria in 1926 to Jamaican parents, his father a teacher and missionary. Dawes grew up in Jamaica although he later studied for an MA at Oxford University, returning to Jamaica to teach. He held a number of other teaching posts in Ghana and Guyana and was a writer, publishing two novels as well as a critical work. In addition to secondary school teaching, he lectured at University of Ghana and the Institute of Jamaica where he established its publishing programme. Dawes was a close friend of Salkey, a connection which may have stemmed from the fact that Dawes had a number of poems and short stories broadcast on Caribbean Voices.  His son is the Ghanaian poet, actor, musician and academic, Kwame Dawes.</data>
+            <data key="2">MS/89377/7/11</data>
+            <data key="size">14.285715</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-213.15425</data>
+            <data key="y">127.33054</data>
+        </node>
+        <node id="88654555-8980-3748-9cfd-8ff993026c37">
+            <data key="label">88654555-8980-3748-9cfd-8ff993026c37</data>
+            <data key="0">Kenneth Ramchand</data>
+            <data key="1">Kenneth Ramchand was born in Trinidad and Tobago. He came to Britain in the late 1950s as a graduate of the University of West Indies to study for an MA and PhD at the University of Edinburgh, where he attended as a scholarship student and where he remained for some years as an academic. At the time that the Caribbean Artists Movement started he was a lecturer at Edinburgh University. However, he was sufficiently engaged that his comprehensive views on CAM’s possible direction were expressed in correspondence and shared at the first meetings. He also presented a lecture on Michael Anthony’s work when Anthony became seriously ill at the third public meeting of CAM.  Ramchand is primarily acclaimed as a prominent critic of Caribbean fiction and has written extensively on many West Indian authors. His seminal text, The West Indian Novel and Its Background , written in 1970, had a transformational effect on West Indian literature as an academic discipline. Ramchand was UWI's first Professor of West Indian Literature and has been affiliated to a number of other academic institutions, including Yale University. In 2005 he was appointed chairman of the University of Trinidad and Tobago, a position he held until 2009. </data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-461.80914</data>
+            <data key="y">343.25116</data>
+        </node>
+        <node id="8eeb0336-ccb9-3adb-acb5-6fb900758fd9">
+            <data key="label">8eeb0336-ccb9-3adb-acb5-6fb900758fd9</data>
+            <data key="0">Jacqueline Mittelholzer</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">195.97563</data>
+            <data key="y">-178.65579</data>
+        </node>
+        <node id="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="label">3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6</data>
+            <data key="0">Jan Carew</data>
+            <data key="1">Born in 1920 in Guyana,  Jan Carew was a multi-talented writer, academic, actor and painter. Two of his own pieces of artwork were used for the covers of his novels. In Guyana, Carew was part of a group of intellectuals that included Wilson Harris, Martin Carter and Ivan Van Sertima. Carew served in the Army in the Second World War.  After the War, at the age of 25, he went to the United States, where he studied science at Howard University. He later attended universities in Prague and at the Sorbonne in Paris. Carew led something of an itinerant existence, which included a period in the Netherlands where he was editor of De Kim, a multilingual poetry magazine. Carew also spent many years in England, where he not only performed as an actor and lectured at London University but worked at Caribbean Voices, where he became friends with Andrew Salkey.  Between 1962 and 1966, Carew lived in Jamaica with his then wife, the prominent writer Sylvia Wynter, subsequently moving to Canada before settling in the USA where he worked both as a writer and an academic, including posts at North Western University and Princeton. Carew was an acclaimed and successful writer, his first novel Black Midas, being published in 1958. His prolific output of work traversed a breadth of genres including Young Adult fiction; non-fiction and adult fiction as well as plays. Carew has been described as a ‘gentle revolutionary’ and was a pioneer in Pan-African Studies.   </data>
+            <data key="size">25.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">162.76662</data>
+            <data key="y">76.32339</data>
+        </node>
+        <node id="0cd30cfc-e779-37c8-8f01-3ce40170dde0">
+            <data key="label">0cd30cfc-e779-37c8-8f01-3ce40170dde0</data>
+            <data key="0">Michael Gilkes</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">507.20914</data>
+            <data key="y">-415.91153</data>
+        </node>
+        <node id="72eef478-39c3-3670-8e5f-d07a19522a7a">
+            <data key="label">72eef478-39c3-3670-8e5f-d07a19522a7a</data>
+            <data key="0">Sylvia (Wynter) and Jan Carew</data>
+            <data key="1">Sylvia Wynter was born in Cuba in 1928. The daughter of an actress and tailor, her family moved back to Jamaica when she was two years old.  She gained scholarships to study at both Kings College London and, subsequently, at University of Madrid where she received an MA in Golden Age Spanish Literature. Her studies provided the foundation for her later works which, in part, attempted a re-evaluation of the modern world system. Her own itinerant lifestyle led her to periods in Jamaica and Sweden before she returned to London, where she met Andrew Salkey and her second husband, Jan Carew.  In the UK she began writing for theatre and radio drama for the BBC, including Caribbean Voices, which led to frequent collaborations with Carew. After Jamaican independence in 1962, she lectured on Spanish literature at the University of the West Indies and was a key contributor to the intellectual and artistic development of the new nation. Wynter wrote and produced numerous pamphlets to educate the Jamaican public about its history, as well as its literary, musical, and artistic traditions. She later went to the United States on a series of academic posts including one at Stanford University. </data>
+            <data key="2">Add MS 89377/7/10</data>
+            <data key="size">12.142858</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-405.00177</data>
+            <data key="y">470.93427</data>
+        </node>
+        <node id="d695f77d-38be-3dbd-adad-85982e6a9257">
+            <data key="label">d695f77d-38be-3dbd-adad-85982e6a9257</data>
+            <data key="0">Tony Martin</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-599.04785</data>
+            <data key="y">757.01324</data>
+        </node>
+        <node id="23b71efc-c338-3aca-9489-1bcb85aa4854">
+            <data key="label">23b71efc-c338-3aca-9489-1bcb85aa4854</data>
+            <data key="0">Van Sertima</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">504.811</data>
+            <data key="y">232.315</data>
+        </node>
+        <node id="d86e4c1e-ed7b-34a1-9387-665c1f31e695">
+            <data key="label">d86e4c1e-ed7b-34a1-9387-665c1f31e695</data>
+            <data key="0">Vam Sertima</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">427.77945</data>
+            <data key="y">384.6063</data>
+        </node>
+        <node id="6353146d-0373-383e-a07c-43955e801e29">
+            <data key="label">6353146d-0373-383e-a07c-43955e801e29</data>
+            <data key="0">O Dathorne</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-576.11255</data>
+            <data key="y">-6.522639</data>
+        </node>
+        <node id="797fcb51-25e9-3462-b0f3-7530fce7bc3e">
+            <data key="label">797fcb51-25e9-3462-b0f3-7530fce7bc3e</data>
+            <data key="0">Robert Hill</data>
+            <data key="1">Born in Jamaica in 1943, Robert Hill is a leading historian and academic with a particular interest in Marcus Garvey. Hill has been editor-in-chief of The Marcus Garvey and Universal Negro Improvement Association Papers for more than 30 years. Hill is also literary executor of the estate of CLR James and General Editor of The C.L.R. James Archives, Duke University Press.  Hill moved to the United States in the 1970s, where he has held a number of academic posts, including North Western University, where Jan Carew was also a lecturer.   Hill met Andrew Salkey whilst they were at the Cultural Congress which was held in Havana, Cuba, in 1968. He features prominently in Salkey’s account of the conference which was published as Havana Journal. He subsequently became good, lifelong, friends with Salkey. They later collaborated on a screenplay about Marcus Garvey. Some of Salkey’s books are dedicated to Hill’s children. </data>
+            <data key="2">Add MS 89377/7/32</data>
+            <data key="size">17.5</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">343.6591</data>
+            <data key="y">179.03554</data>
+        </node>
+        <node id="4c9cb7fc-6667-3ad9-b47c-545b89d9bf1d">
+            <data key="label">4c9cb7fc-6667-3ad9-b47c-545b89d9bf1d</data>
+            <data key="0">Sterling Stuckey</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">691.7613</data>
+            <data key="y">337.26166</data>
+        </node>
+        <node id="6e9f8b98-7d3c-3b19-8256-71c679ac0f58">
+            <data key="label">6e9f8b98-7d3c-3b19-8256-71c679ac0f58</data>
+            <data key="0">Sylvia Wynter</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">633.60736</data>
+            <data key="y">432.12405</data>
+        </node>
+        <node id="205bd226-0987-35af-bd16-da5c6510103f">
+            <data key="label">205bd226-0987-35af-bd16-da5c6510103f</data>
+            <data key="0">Gordon Roehler</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">717.3831</data>
+            <data key="y">227.178</data>
+        </node>
+        <node id="adc80ee3-24e2-36aa-9f1b-aedf8f15314d">
+            <data key="label">adc80ee3-24e2-36aa-9f1b-aedf8f15314d</data>
+            <data key="0">Elsa Goveia</data>
+            <data key="1">Elsa Goveia was born in 1925 in Guyana. In 1944 she won the national British Guyana Scholarship which permitted her to continue her education at University College London, where she studied History. Goveia excelled, winning the Pollard Prize for English history in 1947, the first Caribbean person to do so and graduating with a First Class Honours degree in 1948. Goveia subsequently joined the UWI staff at Mona in 1950 where she pioneered degree courses in West Indian History and also became the first professor of West Indian history. In this capacity she met Kamau Brathwaite, becoming an inspiration for and mentor in his work. At the time of the first CAM conference, she had recently arrived in Britain for a year’s study leave in order to work on a four-volume history of the Caribbean. Her ground-breaking: Slave Society in the British Leeward Islands at the End of the Eighteenth Century, was published in 1965. Goveia was an important originator of the concept of a "slave society," and she also contributed to the emerging concept of "Creole society".</data>
+            <data key="2">Add MS 89377/4/23</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-632.4511</data>
+            <data key="y">56.7713</data>
+        </node>
+        <node id="991deebb-3d6b-318e-a111-2e9a8b2ea1fd">
+            <data key="label">991deebb-3d6b-318e-a111-2e9a8b2ea1fd</data>
+            <data key="0">Selma James</data>
+            <data key="2">Add MS 89377/7/36</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-348.50482</data>
+            <data key="y">202.00345</data>
+        </node>
+        <node id="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="label">0c39749f-e350-3ec9-8758-97411757f9ff</data>
+            <data key="0">Marina Maxwell</data>
+            <data key="1">Born in San Fernando, Trinidad, Marina Maxwell is a Trinidadian playwright, performer, poet and novelist. She gained a BA and MSc (Sociology) and an MA at Michigan State University.  Maxwell was in London during the 1960s, studying, when she became associated with the Caribbean Artists Movement (CAM). She later became its secretary. When she returned to the Caribbean, she established the innovative Yard Theatre staging plays in back yards in Kingston, Jamaica, trying to make her theatre relevant and accessible to the people on the street, the poorer classes who had no access to a formal theatre. Maxwell later took up academic posts at a number of universities in the United States. </data>
+            <data key="2">MS 89377/7/128</data>
+            <data key="size">17.5</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-145.31615</data>
+            <data key="y">17.491585</data>
+        </node>
+        <node id="92e07f0f-2e4f-3f61-865f-aed04c7593d1">
+            <data key="label">92e07f0f-2e4f-3f61-865f-aed04c7593d1</data>
+            <data key="0">David Pitt</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-405.5866</data>
+            <data key="y">-317.619</data>
+        </node>
+        <node id="09ab9ed9-cb25-3a05-8759-4bd388344843">
+            <data key="label">09ab9ed9-cb25-3a05-8759-4bd388344843</data>
+            <data key="0">Evan Jones</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-574.58923</data>
+            <data key="y">335.65256</data>
+        </node>
+        <node id="a30edd5f-c7d6-3b05-a313-f5ab18c77b44">
+            <data key="label">a30edd5f-c7d6-3b05-a313-f5ab18c77b44</data>
+            <data key="0">Accabre Huntley</data>
+            <data key="2">Add MS 89377/7/33</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-565.2268</data>
+            <data key="y">112.84539</data>
+        </node>
+        <node id="c1b55b9d-23a3-3437-8fd2-3d953f981a82">
+            <data key="label">c1b55b9d-23a3-3437-8fd2-3d953f981a82</data>
+            <data key="0">Margaret Busby</data>
+            <data key="size">11.071428</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-282.87125</data>
+            <data key="y">-447.55466</data>
+        </node>
+        <node id="d10f8ddb-ee9d-3323-b26f-b388671266a1">
+            <data key="label">d10f8ddb-ee9d-3323-b26f-b388671266a1</data>
+            <data key="0">Jessica and Eric Huntley and family</data>
+            <data key="size">10.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-595.35754</data>
+            <data key="y">-77.880516</data>
+        </node>
+        <node id="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="label">22f2137b-41db-323f-92fd-e7fffc3629ca</data>
+            <data key="0">Andrew Salkey</data>
+            <data key="size">40.0</data>
+            <data key="r">0</data>
+            <data key="g">0</data>
+            <data key="b">0</data>
+            <data key="x">-216.53813</data>
+            <data key="y">54.852283</data>
+        </node>
+        <edge id="0" source="f3572dc7-d514-31d2-89ae-eb4baf79e1e7" target="0d190e55-5770-3c60-bbf2-e19a1f72ef14">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="1" source="f3572dc7-d514-31d2-89ae-eb4baf79e1e7" target="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="2" source="f3572dc7-d514-31d2-89ae-eb4baf79e1e7" target="e864431e-9afb-3926-ad3f-b3fccc6f1322">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="3" source="f3572dc7-d514-31d2-89ae-eb4baf79e1e7" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="4" source="f3572dc7-d514-31d2-89ae-eb4baf79e1e7" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">5.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="5" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="1f59c247-de95-3efe-9406-60e82e25e7e0">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="6" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="weight">12.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="7" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="07a8084b-e264-3de3-b758-636feead295e">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="8" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">9.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="9" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="701f9480-037c-305e-a30d-a7eaf2295ae6">
+            <data key="weight">4.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="10" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="fe2174de-3253-364a-8645-54a04a81c0d4">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="11" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="0fedb384-294f-3e7e-af79-00262e944a45">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="12" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="0f10318c-631f-3c8e-b7ef-5b36360c875d">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="13" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="6220fdbb-5c5d-3abd-8d09-792dc6301662">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="14" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="e5a3f21f-050e-33b2-b930-75738b28195d">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="15" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="4783caf1-3bc9-303a-b986-f0696a77e38d">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="16" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="55a3ff05-3acf-3644-b8cb-75a4e2294630">
+            <data key="weight">4.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="17" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="ed0f88be-c0e5-359c-98fc-3910925bc00f">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="18" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="122d2298-a696-3400-b078-5ccd9526a4aa">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="19" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="e8021aa7-74ce-31a2-b994-d5274bca339d">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="20" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="21" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="797fcb51-25e9-3462-b0f3-7530fce7bc3e">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="22" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="23" source="0d190e55-5770-3c60-bbf2-e19a1f72ef14" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">33.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="24" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="1f59c247-de95-3efe-9406-60e82e25e7e0">
+            <data key="weight">7.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="25" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="26" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="1634d992-411d-38a5-954b-f61229371be8">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="27" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="9dd56756-96d5-33a0-a50c-7b7ea6621e53">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="28" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="76c2a574-5e68-35d6-aa1d-d21f9ff79922">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="29" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="79ad4530-2e0e-341f-9824-7dbf30003057">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="30" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="441499f5-e7c3-3963-94f8-d2cd44ca893c">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="31" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="8053ccd1-1cbc-3430-846e-e00aa3fb5d06">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="32" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="33" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="34" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="35" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="94f1f442-a074-3596-9b51-e250d3057ca1">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="36" source="ba4c381b-5d9c-3c9f-93e5-94f445b8c1a5" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">19.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="37" source="e864431e-9afb-3926-ad3f-b3fccc6f1322" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="38" source="2e49bd5f-b9fb-3a8c-a405-4da96f9312d1" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">11.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="39" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="0f10318c-631f-3c8e-b7ef-5b36360c875d">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="40" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="d992aa22-f632-3f87-a09a-9d45d2a98215">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="41" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="55a3ff05-3acf-3644-b8cb-75a4e2294630">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="42" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="0c3364e6-1aff-3454-9be0-9779dc420b63">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="43" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="867a9adb-973f-3370-8a3d-a5e12f038734">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="44" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="1634d992-411d-38a5-954b-f61229371be8">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="45" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="cc2036ac-1bca-34d0-b1e7-fe7466d9b075">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="46" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="122d2298-a696-3400-b078-5ccd9526a4aa">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="47" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="94f1f442-a074-3596-9b51-e250d3057ca1">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="48" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="744d30bb-cba6-3c68-9712-d8b32b4b607a">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="49" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="e90f3347-f018-31ec-ae96-3a52dc388e9c">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="50" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="8053ccd1-1cbc-3430-846e-e00aa3fb5d06">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="51" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="52" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="53" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="797fcb51-25e9-3462-b0f3-7530fce7bc3e">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="54" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="55" source="1f59c247-de95-3efe-9406-60e82e25e7e0" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">60.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="56" source="0f10318c-631f-3c8e-b7ef-5b36360c875d" target="07a8084b-e264-3de3-b758-636feead295e">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="57" source="0f10318c-631f-3c8e-b7ef-5b36360c875d" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="58" source="0f10318c-631f-3c8e-b7ef-5b36360c875d" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="59" source="d992aa22-f632-3f87-a09a-9d45d2a98215" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="60" source="55a3ff05-3acf-3644-b8cb-75a4e2294630" target="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="61" source="55a3ff05-3acf-3644-b8cb-75a4e2294630" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="62" source="55a3ff05-3acf-3644-b8cb-75a4e2294630" target="1634d992-411d-38a5-954b-f61229371be8">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="63" source="55a3ff05-3acf-3644-b8cb-75a4e2294630" target="92e07f0f-2e4f-3f61-865f-aed04c7593d1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="64" source="55a3ff05-3acf-3644-b8cb-75a4e2294630" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">11.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="65" source="1634d992-411d-38a5-954b-f61229371be8" target="3e14e337-c147-3cf4-8fda-d98baca822ed">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="66" source="1634d992-411d-38a5-954b-f61229371be8" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="67" source="1634d992-411d-38a5-954b-f61229371be8" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="68" source="1634d992-411d-38a5-954b-f61229371be8" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="69" source="94f1f442-a074-3596-9b51-e250d3057ca1" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="70" source="94f1f442-a074-3596-9b51-e250d3057ca1" target="ad26e23a-db53-3252-a84d-959a2caf04da">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="71" source="94f1f442-a074-3596-9b51-e250d3057ca1" target="c1b55b9d-23a3-3437-8fd2-3d953f981a82">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="72" source="94f1f442-a074-3596-9b51-e250d3057ca1" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">20.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="73" source="744d30bb-cba6-3c68-9712-d8b32b4b607a" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="74" source="86bcd814-3e23-36b3-bd3e-82942e6eabe7" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="75" source="8053ccd1-1cbc-3430-846e-e00aa3fb5d06" target="b15bb396-9338-3937-b1ce-532b1bf8aacd">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="76" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="701f9480-037c-305e-a30d-a7eaf2295ae6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="77" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="e8021aa7-74ce-31a2-b994-d5274bca339d">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="78" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="3e13cdc7-3556-3487-b101-dba00f4bf2e4">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="79" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="80" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="cf9e58ea-ee7c-3d2b-a50b-f3373eff4ed3">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="81" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="82" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="ed0f88be-c0e5-359c-98fc-3910925bc00f">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="83" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="6220fdbb-5c5d-3abd-8d09-792dc6301662">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="84" source="3e14e337-c147-3cf4-8fda-d98baca822ed" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">41.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="85" source="701f9480-037c-305e-a30d-a7eaf2295ae6" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="86" source="701f9480-037c-305e-a30d-a7eaf2295ae6" target="6220fdbb-5c5d-3abd-8d09-792dc6301662">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="87" source="e8021aa7-74ce-31a2-b994-d5274bca339d" target="72eef478-39c3-3670-8e5f-d07a19522a7a">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="88" source="e8021aa7-74ce-31a2-b994-d5274bca339d" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">4.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="89" source="3e13cdc7-3556-3487-b101-dba00f4bf2e4" target="5e0fa2eb-f903-390c-94a9-e6f752ef78c1">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="90" source="3e13cdc7-3556-3487-b101-dba00f4bf2e4" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="91" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="3e556a20-d7dc-3303-963d-1a39ef441ef3">
+            <data key="weight">3.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="92" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="e8844ea7-acfa-3bd7-b2fd-6938ba707d00">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="93" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="0c77e8f2-ecf2-304c-b823-2cfa2a3cb9f6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="94" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="06bf86f1-1fd4-34e2-8848-876e366c104c">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="95" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="4cc795df-9c85-3706-bdc3-57bb2404d115">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="96" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="ad26e23a-db53-3252-a84d-959a2caf04da">
+            <data key="weight">6.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="97" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="160b2d68-f68e-30c5-a606-2a238c624a7a">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="98" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="1506ea8f-1b03-32f8-a8a0-2ea42a46d34a">
+            <data key="weight">4.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="99" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="79ad4530-2e0e-341f-9824-7dbf30003057">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="100" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="ed0f88be-c0e5-359c-98fc-3910925bc00f">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="101" source="5e0fa2eb-f903-390c-94a9-e6f752ef78c1" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">77.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="102" source="07a8084b-e264-3de3-b758-636feead295e" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">2.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="103" source="b15bb396-9338-3937-b1ce-532b1bf8aacd" target="ad26e23a-db53-3252-a84d-959a2caf04da">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="104" source="b15bb396-9338-3937-b1ce-532b1bf8aacd" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">4.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="105" source="76c2a574-5e68-35d6-aa1d-d21f9ff79922" target="c1b55b9d-23a3-3437-8fd2-3d953f981a82">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="106" source="76c2a574-5e68-35d6-aa1d-d21f9ff79922" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="107" source="76c2a574-5e68-35d6-aa1d-d21f9ff79922" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">7.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="108" source="441499f5-e7c3-3963-94f8-d2cd44ca893c" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="109" source="1506ea8f-1b03-32f8-a8a0-2ea42a46d34a" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">8.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="110" source="1506ea8f-1b03-32f8-a8a0-2ea42a46d34a" target="797fcb51-25e9-3462-b0f3-7530fce7bc3e">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="111" source="c5fdc53a-eef6-37ee-9ab5-bf8691fb3c7e" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">2.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="112" source="fe2174de-3253-364a-8645-54a04a81c0d4" target="6220fdbb-5c5d-3abd-8d09-792dc6301662">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="113" source="6220fdbb-5c5d-3abd-8d09-792dc6301662" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">8.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="114" source="4783caf1-3bc9-303a-b986-f0696a77e38d" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="115" source="ed0f88be-c0e5-359c-98fc-3910925bc00f" target="09ab9ed9-cb25-3a05-8759-4bd388344843">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="116" source="ed0f88be-c0e5-359c-98fc-3910925bc00f" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">6.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="117" source="88654555-8980-3748-9cfd-8ff993026c37" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="118" source="8eeb0336-ccb9-3adb-acb5-6fb900758fd9" target="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="119" source="8eeb0336-ccb9-3adb-acb5-6fb900758fd9" target="0cd30cfc-e779-37c8-8f01-3ce40170dde0">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="120" source="8eeb0336-ccb9-3adb-acb5-6fb900758fd9" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">14.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="121" source="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6" target="23b71efc-c338-3aca-9489-1bcb85aa4854">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="122" source="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6" target="d86e4c1e-ed7b-34a1-9387-665c1f31e695">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="123" source="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6" target="797fcb51-25e9-3462-b0f3-7530fce7bc3e">
+            <data key="weight">5.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="124" source="3ee9eff5-7088-3d03-ac48-cd9c9e23b8d6" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">82.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="125" source="72eef478-39c3-3670-8e5f-d07a19522a7a" target="d695f77d-38be-3dbd-adad-85982e6a9257">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="126" source="72eef478-39c3-3670-8e5f-d07a19522a7a" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">2.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="127" source="6353146d-0373-383e-a07c-43955e801e29" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="128" source="797fcb51-25e9-3462-b0f3-7530fce7bc3e" target="4c9cb7fc-6667-3ad9-b47c-545b89d9bf1d">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="129" source="797fcb51-25e9-3462-b0f3-7530fce7bc3e" target="6e9f8b98-7d3c-3b19-8256-71c679ac0f58">
+            <data key="weight">2.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="130" source="797fcb51-25e9-3462-b0f3-7530fce7bc3e" target="205bd226-0987-35af-bd16-da5c6510103f">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="131" source="797fcb51-25e9-3462-b0f3-7530fce7bc3e" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">23.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="132" source="adc80ee3-24e2-36aa-9f1b-aedf8f15314d" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="133" source="991deebb-3d6b-318e-a111-2e9a8b2ea1fd" target="0c39749f-e350-3ec9-8758-97411757f9ff">
+            <data key="weight">1.0</data>
+            <data key="3">mentioned</data>
+        </edge>
+        <edge id="134" source="991deebb-3d6b-318e-a111-2e9a8b2ea1fd" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">4.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="135" source="0c39749f-e350-3ec9-8758-97411757f9ff" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">15.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="136" source="a30edd5f-c7d6-3b05-a313-f5ab18c77b44" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">13.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+        <edge id="137" source="d10f8ddb-ee9d-3323-b26f-b388671266a1" target="22f2137b-41db-323f-92fd-e7fffc3629ca">
+            <data key="weight">1.0</data>
+            <data key="3">corresponded</data>
+        </edge>
+    </graph>
+</graphml>

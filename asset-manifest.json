@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/salkey-graphs/static/css/main.02075302.css",
-    "main.js": "/salkey-graphs/static/js/main.68ffbaa7.js",
+    "main.css": "/salkey-graphs/static/css/main.22e087dc.css",
+    "main.js": "/salkey-graphs/static/js/main.1229e995.js",
     "static/js/787.9aa99e2b.chunk.js": "/salkey-graphs/static/js/787.9aa99e2b.chunk.js",
-    "static/media/correspondence-network-2023-02-23-v1.gexf": "/salkey-graphs/static/media/correspondence-network-2023-02-23-v1.c606f3e3505695be96ce.gexf",
+    "static/media/correspondence-network-2023-02-23-v1.graphml": "/salkey-graphs/static/media/correspondence-network-2023-02-23-v1.2ee4c6c0d3eed86b37e9.graphml",
     "index.html": "/salkey-graphs/index.html",
-    "main.02075302.css.map": "/salkey-graphs/static/css/main.02075302.css.map",
-    "main.68ffbaa7.js.map": "/salkey-graphs/static/js/main.68ffbaa7.js.map",
+    "main.22e087dc.css.map": "/salkey-graphs/static/css/main.22e087dc.css.map",
+    "main.1229e995.js.map": "/salkey-graphs/static/js/main.1229e995.js.map",
     "787.9aa99e2b.chunk.js.map": "/salkey-graphs/static/js/787.9aa99e2b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02075302.css",
-    "static/js/main.68ffbaa7.js"
+    "static/css/main.22e087dc.css",
+    "static/js/main.1229e995.js"
   ]
 }
