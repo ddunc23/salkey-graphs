@@ -1,3 +1,12 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+    h2 {
+        @apply text-lg mb-4 border-b border-gray-200;
+    }
+    p {
+        @apply mb-4 text-sm;
+    }
+}

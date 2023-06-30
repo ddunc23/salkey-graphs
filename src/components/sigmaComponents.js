@@ -1,26 +1,10 @@
 import { useEffect, useState } from "react";
 import Graph from "graphology";
-import { SigmaContainer, useLoadGraph, useRegisterEvents } from "@react-sigma/core";
-import { useWorkerLayoutForceAtlas2 } from "@react-sigma/layout-forceatlas2";
+import { SigmaContainer, useLoadGraph, useRegisterEvents, useSigma } from "@react-sigma/core";
 import "@react-sigma/core/lib/react-sigma.min.css";
-import salkey from "../data/correspondence-network-11.gexf";
-import gexf from "graphology-gexf";
-
-const Fa2 = () => {
-  const { start, kill, isRunning } = useWorkerLayoutForceAtlas2({ settings: { slowDown: 100, gravity: 100, linLogMode: true } });
-
-  useEffect(() => {
-    // start FA2
-    start();
-    return () => {
-      // Kill FA2 on unmount
-      kill();
-    };
-  }, [start, kill]);
-
-  return null;
-};
-
+import salkey from "../data/correspondence-network-2023-02-23-v1.graphml";
+import graphml from "graphology-graphml";
+import "@react-sigma/core/lib/react-sigma.min.css";
 
 const LoadGraph = (props) => {
   const loadGraph = useLoadGraph();
@@ -31,28 +15,32 @@ const LoadGraph = (props) => {
     fetch(salkey).then(
       r => r.text()
   ).then(
-      text => gexf.parse(Graph, text)
+      text => graphml.parse(Graph, text)
   ).then(graph => {
       setGraph(graph); 
       graph.forEachNode(node => {
-        graph.setNodeAttribute(node, 'x', Math.random());          
-        graph.setNodeAttribute(node, 'y', Math.random());
         const attrs = graph.getNodeAttributes(node);
         const degree = graph.degree(node);
         if (degree < 5) {
           graph.setNodeAttribute(node, 'size', 5);
         } else {
           graph.setNodeAttribute(node, 'size', degree);
-        }   
-        graph.setNodeAttribute(node, 'label', attrs.name);
+        }
+        graph.setNodeAttribute(node, 'color', '#63a370');
+        attrs.bio ?
+          graph.setNodeAttribute(node, 'label', 'ℹ️ ' + attrs.name)
+          :
+          graph.setNodeAttribute(node, 'label', attrs.name)
       });
 
       graph.forEachEdge(edge => {
         const attrs = graph.getEdgeAttributes(edge);
         if (attrs.edge_type == 'corresponded') {
           graph.setEdgeAttribute(edge, 'color', '#ea04e2');
+          graph.setEdgeAttribute(edge, 'label', 'Corresponded');
         } else {
-          graph.setEdgeAttribute(edge, 'color', '#e2ea04');
+          graph.setEdgeAttribute(edge, 'color', '#c1c1c1');
+          graph.setEdgeAttribute(edge, 'label', 'Mentioned');
         }
       })
       
@@ -60,9 +48,7 @@ const LoadGraph = (props) => {
     });    
     
   }, [loadGraph]);
-  
-
-  
+    
   const registerEvents = useRegisterEvents();
 
   useEffect(() => {
@@ -73,6 +59,12 @@ const LoadGraph = (props) => {
           props.setNodeProps(attrs);
           event.preventSigmaDefault();
         },
+        enterNode: (event) => {
+          graph.setNodeAttribute(event.node, 'color', '#c1c1c1');
+        },
+        leaveNode: (event) => {
+          graph.setNodeAttribute(event.node, 'color', '#63a370');
+        }
       })
     }
   }, [graph, registerEvents]);
@@ -83,10 +75,15 @@ const LoadGraph = (props) => {
 export const DisplayGraph = (props) => {
 
   return (
-    <SigmaContainer style={{ height: "900px", width: "1500px" }}>
-      <LoadGraph setNodeProps={props.setNodeProps}>
-        <Fa2 />
-      </LoadGraph>
+    <SigmaContainer style={{ height: "700px", width: "1500px" }} className="mt-10" settings={
+      {
+        renderEdgeLabels: true, 
+        labelSize: 14, 
+        edgeLabelSize: 10,
+        stagePadding: 2
+      }
+    }>
+      <LoadGraph setNodeProps={props.setNodeProps} />
     </SigmaContainer>
   );
 };
