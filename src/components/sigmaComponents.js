@@ -31,6 +31,10 @@ const LoadGraph = (props) => {
           graph.setNodeAttribute(node, 'label', 'ℹ️ ' + attrs.name)
           :
           graph.setNodeAttribute(node, 'label', attrs.name)
+        attrs.shelfmark ?
+          graph.setNodeAttribute(node, 'shelfmark', attrs.shelfmark)
+          :
+          graph.setNodeAttribute(node, 'shelfmark', null)
       });
 
       graph.forEachEdge(edge => {
